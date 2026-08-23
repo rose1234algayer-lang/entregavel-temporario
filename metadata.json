@@ -1,0 +1,6 @@
+{
+  "name": "Plano Aprovação CNH 2026 - Confirmação",
+  "description": "Página oficial de confirmação de compra e orientação de entrega do Plano Aprovação CNH 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
